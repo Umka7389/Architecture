@@ -23,6 +23,7 @@
     <modules>
         <module>CreationalPattern</module>
         <module>StructuralPattern</module>
+        <module>BehavioralPattern</module>
     </modules>
 
 

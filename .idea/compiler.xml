@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CreationalPattern" />
+        <module name="BehavioralPattern" />
         <module name="StructuralPattern" />
       </profile>
     </annotationProcessing>
