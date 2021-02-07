@@ -9,6 +9,7 @@
         <module name="CreationalPattern" />
         <module name="BehavioralPattern" />
         <module name="StructuralPattern" />
+        <module name="ArchitecturalPattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
