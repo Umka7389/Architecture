@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Architecture" />
+        <module name="CreationalPattern" />
+        <module name="BehavioralPattern" />
+        <module name="StructuralPattern" />
+        <module name="MVC" />
+        <module name="ArchitecturalPattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CreationalPatterns" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
