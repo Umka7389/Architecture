@@ -25,6 +25,7 @@
         <module>StructuralPattern</module>
         <module>BehavioralPattern</module>
         <module>ArchitecturalPattern</module>
+        <module>MVC</module>
     </modules>
 
 
