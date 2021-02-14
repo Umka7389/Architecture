@@ -51,6 +51,8 @@ public class DBConnection {
         cacheUserMap.addUser(userThird);
         for (User u :cacheUserMap.getAllUsers()) {
             System.out.println(u);
+
+
         }
 
     }
