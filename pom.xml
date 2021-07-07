@@ -24,6 +24,7 @@
         <module>CreationalPattern</module>
         <module>StructuralPattern</module>
         <module>BehavioralPattern</module>
+        <module>ArchitecturalPattern</module>
     </modules>
 
 
